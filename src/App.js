@@ -21,7 +21,7 @@ function App() {
   };
   return (
     <div className="app">
-      <h1> Weather App</h1>
+      <h1> Weather App UPDATE</h1>
       <div className="input-wrapper">
         <input
           type="text"
